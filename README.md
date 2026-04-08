@@ -38,5 +38,4 @@ A beautiful, interactive wall calendar built with Next.js, React, and Tailwind C
 4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the calendar in action!
 
 ## Video Demonstration
-<video src="https://github.com/AbhimanyuGanguly/TakeUForward-Assignment/raw/main/public/demo.mp4" controls="controls" width="100%">
-</video>
+https://github.com/AbhimanyuGanguly/TakeUForward-Assignment/raw/main/public/demo.mp4
