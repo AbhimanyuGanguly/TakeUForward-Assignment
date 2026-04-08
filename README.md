@@ -21,6 +21,7 @@ A beautiful, interactive wall calendar built with Next.js, React, and Tailwind C
 
 1. Clone the repository and navigate to the project directory:
    ```bash
+
    git clone <your-repo-url>
    cd Calendar
    ```
@@ -35,7 +36,8 @@ A beautiful, interactive wall calendar built with Next.js, React, and Tailwind C
    npm run dev
    ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the calendar in action!
+4. Video Demonstration!
+https://github.com/user-attachments/assets/ec89c2e3-312b-4872-968b-2a962d8529cf
 
 ## Video Demonstration
 https://github.com/AbhimanyuGanguly/TakeUForward-Assignment/raw/main/public/demo.mp4
